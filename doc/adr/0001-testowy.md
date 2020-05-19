@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-The issue motivating this decision, and any context that influences or constrains the decision.
+Sprawdzam jak to działa
 
 ## Decision
 
